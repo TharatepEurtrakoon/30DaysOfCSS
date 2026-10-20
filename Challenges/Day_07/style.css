@@ -11,7 +11,7 @@ body {
   min-width: 200px;
   margin: 1em;
   padding: 0.3em;
-  background: linear-gradient(to right, #316F3D, #4EB071);
+  background: linear-gradient(to right, #bcc2bd, #4EB071);
   border: 0;
   cursor: pointer;
   border-radius: 50px;
@@ -37,7 +37,7 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  background: linear-gradient(to right,  #316F3D, #4EB071);
+  background: linear-gradient(to right,  #1ea8a8, #24edc1);
   border-radius: 20px;
   transition: all .3s ease-in-out;
 }
